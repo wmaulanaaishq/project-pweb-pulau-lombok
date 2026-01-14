@@ -10,16 +10,6 @@
       box-shadow: 0 8px 20px rgba(18, 105, 152, 0.2);
       position: relative;
   ">
-      <img src="assets/images/bg%20index.jpg" alt="Lombok Explore Banner" style="
-          width: 100%;
-          height: 100%;
-          object-fit: cover;
-          object-position: center 40%;
-          display: block;
-      ">
-      <div style="position:absolute; top:0; left:0; width:100%; height:100%; background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.3));"></div>
-  </div>
-
   
   </a>
 
