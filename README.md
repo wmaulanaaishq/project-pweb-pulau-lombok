@@ -21,7 +21,6 @@
   </div>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=35&duration=3000&pause=1000&color=126998&center=true&vCenter=true&width=600&lines=LOMBOK+EXPLORE;Discover+The+Hidden+Gem;Wonderful+Indonesia" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -75,8 +74,7 @@ Kami adalah tim yang berdedikasi di balik pengembangan Lombok Explore:
 
 ## 📸 Tampilan Antarmuka (Preview)
 
-Berikut adalah sekilas tampilan dari website Lombok Explore.
-*(Path gambar di bawah ini sudah diperbaiki)*
+Berikut adalah sekilas tampilan dari website Lombok Explore
 
 | **Halaman Utama (Hero)** | **Destinasi Slider** |
 | :---: | :---: |
