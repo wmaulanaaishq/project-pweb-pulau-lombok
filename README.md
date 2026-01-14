@@ -11,7 +11,6 @@
       position: relative;
   ">
 
-      <div style="position:absolute; top:0; left:0; width:100%; height:100%; background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.3));"></div>
   </div>
 
   <a href="https://git.io/typing-svg">
