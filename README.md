@@ -40,15 +40,32 @@
 
 Project ini dibuat sebagai pemenuhan tugas akhir mata kuliah **Pemrograman Web** untuk mendemonstrasikan kemampuan dalam membangun antarmuka web yang responsif dan dinamis.
 
-### ✨ Fitur Utama
-* **Interactive Hero Slider:** Navigasi kartu destinasi dengan animasi transisi yang halus.
-* **Real-time Clock:** Menampilkan waktu WIB terkini secara *real-time* menggunakan JavaScript.
-* **Scroll Reveal Animation:** Elemen website muncul secara elegan saat pengguna melakukan *scrolling*.
-* **Futuristic Gallery:** Galeri foto dengan efek *hover overlay* dan *blur* yang estetis.
-* **Direct WhatsApp Reservation:** Integrasi formulir kontak yang terhubung langsung ke API WhatsApp.
-* **Responsive Layout:** Tampilan optimal di berbagai ukuran layar (Grid & Flexbox).
+## ✨ Fitur & Struktur Halaman
 
----
+Website ini terdiri dari 4 halaman utama yang saling terintegrasi dengan fitur-fitur menarik:
+
+### 1. 🏠 Beranda (Home)
+Halaman depan yang menyambut pengunjung dengan visual memukau.
+* **Hero Slider Interaktif:** Menampilkan highlight destinasi unggulan dengan efek transisi kartu yang halus.
+* **Informasi Real-time:** Menampilkan jam WIB terkini dan statistik pengunjung secara dinamis.
+* **Scroll Reveal:** Elemen visual muncul perlahan saat pengguna menggulir halaman ke bawah.
+
+### 2. ℹ️ Tentang Destinasi (About)
+Panduan lengkap bagi wisatawan yang ingin merencanakan perjalanan.
+* **Detail 6 Destinasi Ikonik:** Mulai dari Bukit Merese hingga Air Terjun Tiu Kelep.
+* **Informasi Praktis:** Menyajikan info Harga Tiket Masuk (HTM), Jam Operasional, dan Fasilitas.
+* **Direct Maps:** Tombol khusus yang langsung mengarahkan pengguna ke lokasi via Google Maps.
+
+### 3. 🖼️ Galeri Visual (Gallery)
+Pengalaman visual yang memanjakan mata dengan tata letak modern.
+* **Grid Layout Futuristik:** Penataan foto yang responsif dan rapi.
+* **Hover Effects:** Efek overlay gelap dan judul lokasi yang muncul saat kursor diarahkan ke foto.
+* **High Quality Assets:** Kumpulan foto-foto terbaik dari keindahan alam Lombok.
+
+### 4. 📞 Kontak (Contact)
+Pusat informasi dan layanan komunikasi.
+* **Direct WhatsApp:** Formulir kritik dan saran yang terhubung langsung ke API WhatsApp Admin tanpa menyimpan kontak manual.
+* **Info Admin:** Menampilkan kontak email dan media sosial pengelola.
 
 ## 👥 Anggota Kelompok 9
 
@@ -56,11 +73,11 @@ Kami adalah tim yang berdedikasi di balik pengembangan Lombok Explore:
 
 | No | Nama Anggota | NIM | Role |
 | :---: | :--- | :---: | :--- |
-| 1. | **Wahyu Maulana Ishaq** | `243200317` | *Project Manager & Frontend * |
+| 1. | **Wahyu Maulana Ishaq** | `243200317` | *Frontend Developer * |
 | 2. | **Aulia Dinda Puspita** | `243200327` | *frontend developer* |
 | 3. | **Aziz Almubasir** |  | *Frontend Developer* |
 | 4. | **Qorin Nur Fauzi** |  | *frontend developer* |
-| 5. | **Aulia Khairani** | | *frontend* |
+| 5. | **Aulia Khairani** | | *frontend Developer* |
 
 > *Catatan: Kerjasama tim mencakup perancangan layout, pengumpulan aset, coding, hingga deployment.*
 
