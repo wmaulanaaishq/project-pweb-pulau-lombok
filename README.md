@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="Pulau Lombok/assets/images/bg index.jpg" alt="Lombok Explore Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <img src="![bg index](https://github.com/user-attachments/assets/6a89a478-2651-4525-aeec-ed3feefa6306)
+" alt="Lombok Explore Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 
   <br><br>
 
