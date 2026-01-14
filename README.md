@@ -79,14 +79,13 @@ Kami adalah tim yang berdedikasi di balik pengembangan Lombok Explore:
 | 4. | **Qorin Nur Fauzi** |  | *frontend developer* |
 | 5. | **Aulia Khairani** | | *frontend Developer* |
 
-> *Catatan: Kerjasama tim mencakup perancangan layout, pengumpulan aset, coding, hingga deployment.*
+
 
 ---
 
 ## 📸 Tampilan Antarmuka (Preview)
 
 Berikut adalah sekilas tampilan dari website Lombok Explore.
-*(Path gambar di bawah ini sudah diperbaiki)*
 
 | **Halaman Utama (Hero)** | **Destinasi Slider** |
 | :---: | :---: |
