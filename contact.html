@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>Kontak & Penginapan</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">LOMBOK EXPLORE</a>
+      <nav class="main-nav"><a href="index.html">Beranda</a><a href="about.html">Tentang</a><a href="gallery.html">Galeri</a><a href="contact.html">Kontak</a></nav>
+    </div>
+  </header><br><br>br
+  <div class="text-center">
+      <p class="tebal">KONTAK KAMI</p>
+      <h2><span>Informasi</span> &amp; Reservasi</h2>
+      <p>Untuk keterangan lebih lengkap dan detail, silahkan kontak staff kami</p>
+  </div>
+  <main class="container">
+  <div class="grid-2">
+    
+    <!-- KOLOM KIRI -->
+    <section>
+      <h2>Kontak Informasi</h2>
+      <div class="stat-box">
+        <p class="kecil">
+          Silahkan kontak kami untuk informasi lebih lengkap dan detail
+          untuk rencana wisata Anda di Pulau Lombok.
+        </p>
+        <p>📞 <b>WhatsApp</b></p>
+        <a href="https://wa.me/6285754987052" target="_blank">
+          085 754 987 052
+        </a>
+        <p>📧 <b>Gmail</b></p>
+        <a href="mailto:pawzikatcaww@gmail.com">
+          pawzikatcaww@gmail.com
+        </a>
+      </div>
+    </section>
+
+    <!-- KOLOM KANAN -->
+    <section>
+      <h2>Kritik dan Saran</h2>
+      <form id="secure-form" class="card">
+        <div class="form-group">
+          <label for="nama">Nama Anda</label>
+          <input type="text" id="nama" name="nama">
+        </div>
+        <div class="form-group">
+          <label>Pesan Anda</label>
+          <textarea id="pesan-user" rows="3"></textarea>
+        </div>
+        <button type="button" onclick="sendSecure()"
+          class="btn-small">
+          Kirim Sekarang
+        </button>
+      </form>
+    </section>
+
+  </div>
+</main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="footer-section">
+          <h3>Lombok Explore</h3>
+          <p>Lombok Explore adalah platform panduan wisata terpercaya yang didedikasikan untuk memperkenalkan keindahan tersembunyi, budaya Sasak yang kaya, dan destinasi tropis terbaik di Pulau Lombok.</p>
+        </div>
+
+        <div class="footer-section">
+          <h3>Navigasi Cepat</h3>
+          <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="about.html">Tentang Destinasi</a></li>
+            <li><a href="gallery.html">Galeri Visual</a></li>
+            <li><a href="contact.html">Kontak & Reservasi</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h3>Hubungi Kami</h3>
+          <p>📞 WhatsApp: <a href="https://wa.me/6285754987052" target="_blank">085 754 987 052</a></p>
+          <p>📧 Email: <a href="mailto:pawzikatcaww@gmail.com">pawzikatcaww@gmail.com</a></p>
+          <div class="social-links">
+            <a href="https://instagram.com/ziz.mubasyir" target="_blank">Instagram</a>
+            <a href="https://tiktok.com/@mubasyeer_" target="_blank">TikTok</a>
+            <a href="https://www.youtube.com/@lombokpictures77" target="_blank">YouTube</a>
+          </div>
+        </div>
+
+        <div class="footer-section">
+          <h3>Informasi Tambahan</h3>
+          <ul>
+            <li><a href="https://maps.app.goo.gl/FDr8zDFMSH5TFmCt7">Peta</a></li>
+            <li><a href="./contact.html">FAQ (Tanya Jawab)</a></li>
+            <li><a href="#">Syarat & Ketentuan</a></li>
+            <li><a href="#">Disclaimer</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div class="container">
+          <p>&copy; 2026 Explore Lombok. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+  <script>
+    function sendSecure() {
+      const wisata = document.getElementById('wisata-tujuan').value;
+      const pesan = document.getElementById('pesan-user').value;
+      const text = `Halo, saya ingin bertanya tentang ${wisata}. Pesan: ${pesan}`;
+      
+      // Mengirim ke WA tanpa user tahu nomernya di form
+      window.open(`https://wa.me/6281227446406?text=${encodeURIComponent(text)}`, '_blank');
+      // Untuk email bisa menggunakan window.location.href = "mailto:..."
+    }
+  </script>
+</body>
+</html>
