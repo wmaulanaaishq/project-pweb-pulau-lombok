@@ -1,6 +1,24 @@
 <div align="center">
 
-  <img src="assets/images/bg%20index.jpg" alt="Lombok Explore Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <div align="center" style="
+    width: 100%;
+    max-width: 900px; /* Membatasi lebar maksimal agar rapi di layar besar */
+    height: 280px;    /* KUNCI: Mengatur ketinggian banner (ubah angka ini jika kurang pas) */
+    margin: 0 auto 30px auto; /* Posisi tengah dan jarak bawah */
+    overflow: hidden; /* Memotong bagian gambar yang keluar dari bingkai */
+    border-radius: 16px; /* Sudut membulat */
+    box-shadow: 0 8px 20px rgba(18, 105, 152, 0.2); /* Bayangan halus berwarna biru tema */
+    position: relative;
+">
+    <img src="assets/images/bg%20index.jpg" alt="Lombok Explore Banner" style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* KUNCI: Agar gambar mengisi bingkai tanpa jadi gepeng */
+        object-position: center 40%; /* Mengatur fokus potongan gambar (center/top/bottom) */
+        display: block;
+    ">
+    <div style="position:absolute; top:0; left:0; width:100%; height:100%; background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.3));"></div>
+</div>
 
   <br><br>
 
