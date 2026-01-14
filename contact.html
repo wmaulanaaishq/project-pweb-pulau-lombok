@@ -106,16 +106,6 @@
         </div>
       </div>
     </footer>
-  <script>
-    function sendSecure() {
-      const wisata = document.getElementById('wisata-tujuan').value;
-      const pesan = document.getElementById('pesan-user').value;
-      const text = `Halo, saya ingin bertanya tentang ${wisata}. Pesan: ${pesan}`;
-      
-      // Mengirim ke WA tanpa user tahu nomernya di form
-      window.open(`https://wa.me/6281227446406?text=${encodeURIComponent(text)}`, '_blank');
-      // Untuk email bisa menggunakan window.location.href = "mailto:..."
-    }
-  </script>
+  <script src="script.js"> </script>
 </body>
 </html>
