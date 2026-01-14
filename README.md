@@ -56,11 +56,11 @@ Kami adalah tim yang berdedikasi di balik pengembangan Lombok Explore:
 
 | No | Nama Anggota | NIM | Role |
 | :---: | :--- | :---: | :--- |
-| 1. | **Wahyu Maulana Ishaq** | `243200317` | *Project Manager & Fullstack* |
-| 2. | **Aulia Dinda Puspita** | `243200327` | *UI/UX Designer* |
+| 1. | **Wahyu Maulana Ishaq** | `243200317` | *Project Manager & Frontend * |
+| 2. | **Aulia Dinda Puspita** | `243200327` | *frontend developer* |
 | 3. | **Aziz Almubasir** |  | *Frontend Developer* |
-| 4. | **Qorin Nur Fauzi** |  | *Content Strategist* |
-| 5. | **Aulia Khairani** | | *Quality Assurance* |
+| 4. | **Qorin Nur Fauzi** |  | *frontend developer* |
+| 5. | **Aulia Khairani** | | *frontend* |
 
 > *Catatan: Kerjasama tim mencakup perancangan layout, pengumpulan aset, coding, hingga deployment.*
 
